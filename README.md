@@ -1,2 +1,2 @@
 # Landing5
-Landing Bootstrap pair programming
+Landing realizada con Bootstrap en pair programming
